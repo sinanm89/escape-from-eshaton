@@ -9,10 +9,8 @@
     run. The user can also enter the full path of other json files as
     well.
 
-    ```bash
         $ python3 escape_eshaton.py
         $ python3 escape_eshaton.py /my/own/chart.json
-    ```
 
 The entire documentation of the problem and mini examples can be found
 here:
