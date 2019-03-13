@@ -11,4 +11,4 @@
 
 The entire documentation of the problem and mini examples can be found here:
 
-    https://goo.gl/JYShwB
+- [Google Docs](https://docs.google.com/document/d/1kti2CBl1yr1qu7V3Xt2TBG13e0NAr_di6qOfmAP7hzY/edit?usp=sharing)
